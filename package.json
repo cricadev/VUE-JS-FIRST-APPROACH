@@ -1,0 +1,23 @@
+{
+  "name": "vue-first",
+  "version": "1.0.0",
+  "description": "my very first approach to a framework with the help of the creator of vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    ,"test:watch": "npm run test -- --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cricadev/VUE-JS-FIRST-APPROACH.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "cricadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cricadev/VUE-JS-FIRST-APPROACH/issues"
+  },
+  "homepage": "https://github.com/cricadev/VUE-JS-FIRST-APPROACH#readme"
+}
